@@ -108,7 +108,7 @@ Node.js 20+, npm, and Docker (or a MySQL 8 server of your own).
 
 ```bash
 git clone <repository-url>
-cd technical_test_project
+cd open_food_facts
 docker compose up -d
 ```
 
