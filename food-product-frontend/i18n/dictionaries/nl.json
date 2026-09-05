@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Voedingsproducten zoeken",
+    "tagline": "Zoek verpakte levensmiddelen en bekijk hun voedingswaarden."
+  },
+  "nav": {
+    "language": "Taal",
+    "selectLanguage": "Selecteer taal"
+  },
+  "user": {
+    "demoBadge": "Demogebruiker",
+    "signedInAs": "Ingelogd als"
+  },
+  "search": {
+    "label": "Producten zoeken",
+    "placeholder": "Probeer Nutella, Coca Cola, Oreo…",
+    "submit": "Zoeken",
+    "searching": "Bezig met zoeken…",
+    "recentTitle": "Recente zoekopdrachten",
+    "recentEmpty": "Je recente zoekopdrachten verschijnen hier.",
+    "resultsFor": "Resultaten voor \"{query}\"",
+    "resultCount": "{count} producten gevonden",
+    "loadMore": "Meer laden",
+    "loadingMore": "Laden…",
+    "minLength": "Voer minimaal 2 tekens in."
+  },
+  "states": {
+    "loading": "Laden…",
+    "emptyTitle": "Geen producten gevonden",
+    "emptyBody": "We konden niets vinden voor deze zoekopdracht. Probeer een ander product of merk.",
+    "initialTitle": "Begin met zoeken naar een product",
+    "initialBody": "Zoek op productnaam, merk of een algemene term om resultaten te zien.",
+    "errorTitle": "Er is iets misgegaan",
+    "errorBody": "Probeer het opnieuw.",
+    "retry": "Opnieuw proberen"
+  },
+  "product": {
+    "unknownName": "Productnaam niet beschikbaar",
+    "unknownBrand": "Onbekend merk",
+    "noImage": "Geen afbeelding beschikbaar",
+    "viewNutrition": "Voedingswaarden bekijken",
+    "backToResults": "Terug naar zoeken",
+    "barcode": "Streepjescode"
+  },
+  "nutrition": {
+    "title": "Voedingswaarden",
+    "per100g": "Per 100 g / 100 ml",
+    "unavailable": "Voedingswaarden zijn niet beschikbaar voor dit product.",
+    "notProvided": "Niet opgegeven",
+    "energy": "Energie",
+    "fat": "Vet",
+    "saturatedFat": "Verzadigd vet",
+    "carbohydrates": "Koolhydraten",
+    "sugars": "Suikers",
+    "fiber": "Vezels",
+    "protein": "Eiwitten",
+    "salt": "Zout"
+  },
+  "subscription": {
+    "lockedTitle": "Voedingswaarden zijn beschikbaar voor abonnees",
+    "lockedBody": "Neem een abonnement om gedetailleerde voedingswaarden voor elk product te ontgrendelen.",
+    "subscribe": "Abonneren",
+    "redirecting": "Doorsturen naar afrekenen…",
+    "activeTitle": "Actief abonnement",
+    "renewsOn": "Verlengt op {date}",
+    "checkoutError": "We konden het afrekenen niet starten. Probeer het opnieuw.",
+    "checkoutCancelled": "Afrekenen is geannuleerd. Er is niets in rekening gebracht.",
+    "checkoutSuccess": "Bedankt! Je abonnement wordt geactiveerd.",
+    "pendingActivation": "Dit kan een paar seconden duren.",
+    "status": {
+      "past_due": "Je betaling is achterstallig.",
+      "canceled": "Je abonnement is geannuleerd.",
+      "unpaid": "Je abonnement is niet betaald.",
+      "incomplete": "Je abonnement is nog niet voltooid.",
+      "incomplete_expired": "Je abonnementspoging is verlopen.",
+      "paused": "Je abonnement is gepauzeerd."
+    }
+  }
+}

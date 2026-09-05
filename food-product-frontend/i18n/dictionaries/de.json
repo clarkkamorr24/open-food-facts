@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Lebensmittelsuche",
+    "tagline": "Suchen Sie verpackte Lebensmittel und entdecken Sie ihre Nährwerte."
+  },
+  "nav": {
+    "language": "Sprache",
+    "selectLanguage": "Sprache auswählen"
+  },
+  "user": {
+    "demoBadge": "Demo-Benutzer",
+    "signedInAs": "Angemeldet als"
+  },
+  "search": {
+    "label": "Produkte suchen",
+    "placeholder": "Versuchen Sie Nutella, Coca Cola, Oreo…",
+    "submit": "Suchen",
+    "searching": "Suche läuft…",
+    "recentTitle": "Letzte Suchanfragen",
+    "recentEmpty": "Ihre letzten Suchanfragen erscheinen hier.",
+    "resultsFor": "Ergebnisse für \"{query}\"",
+    "resultCount": "{count} Produkte gefunden",
+    "loadMore": "Mehr laden",
+    "loadingMore": "Wird geladen…",
+    "minLength": "Bitte geben Sie mindestens 2 Zeichen ein."
+  },
+  "states": {
+    "loading": "Wird geladen…",
+    "emptyTitle": "Keine Produkte gefunden",
+    "emptyBody": "Für diese Suche wurde nichts gefunden. Versuchen Sie ein anderes Produkt oder eine andere Marke.",
+    "initialTitle": "Suchen Sie zunächst nach einem Produkt",
+    "initialBody": "Suchen Sie nach Produktname, Marke oder einem allgemeinen Begriff, um Ergebnisse zu sehen.",
+    "errorTitle": "Etwas ist schiefgelaufen",
+    "errorBody": "Bitte versuchen Sie es erneut.",
+    "retry": "Erneut versuchen"
+  },
+  "product": {
+    "unknownName": "Produktname nicht verfügbar",
+    "unknownBrand": "Unbekannte Marke",
+    "noImage": "Kein Bild verfügbar",
+    "viewNutrition": "Nährwerte ansehen",
+    "backToResults": "Zurück zur Suche",
+    "barcode": "Barcode"
+  },
+  "nutrition": {
+    "title": "Nährwertangaben",
+    "per100g": "Pro 100 g / 100 ml",
+    "unavailable": "Für dieses Produkt sind keine Nährwertangaben verfügbar.",
+    "notProvided": "Nicht angegeben",
+    "energy": "Energie",
+    "fat": "Fett",
+    "saturatedFat": "Gesättigte Fettsäuren",
+    "carbohydrates": "Kohlenhydrate",
+    "sugars": "Zucker",
+    "fiber": "Ballaststoffe",
+    "protein": "Eiweiß",
+    "salt": "Salz"
+  },
+  "subscription": {
+    "lockedTitle": "Nährwertangaben sind für Abonnenten verfügbar",
+    "lockedBody": "Abonnieren Sie, um detaillierte Nährwertangaben für jedes Produkt freizuschalten.",
+    "subscribe": "Abonnieren",
+    "redirecting": "Weiterleitung zur Kasse…",
+    "activeTitle": "Aktives Abonnement",
+    "renewsOn": "Verlängert sich am {date}",
+    "checkoutError": "Die Kasse konnte nicht gestartet werden. Bitte versuchen Sie es erneut.",
+    "checkoutCancelled": "Der Bezahlvorgang wurde abgebrochen. Es wurde nichts berechnet.",
+    "checkoutSuccess": "Vielen Dank! Ihr Abonnement wird aktiviert.",
+    "pendingActivation": "Die Bestätigung kann einige Sekunden dauern.",
+    "status": {
+      "past_due": "Ihre Zahlung ist überfällig.",
+      "canceled": "Ihr Abonnement wurde gekündigt.",
+      "unpaid": "Ihr Abonnement ist unbezahlt.",
+      "incomplete": "Ihr Abonnement ist noch nicht abgeschlossen.",
+      "incomplete_expired": "Ihr Abonnementversuch ist abgelaufen.",
+      "paused": "Ihr Abonnement ist pausiert."
+    }
+  }
+}

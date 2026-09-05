@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Recherche de produits alimentaires",
+    "tagline": "Recherchez des aliments emballés et découvrez leurs valeurs nutritionnelles."
+  },
+  "nav": {
+    "language": "Langue",
+    "selectLanguage": "Sélectionner la langue"
+  },
+  "user": {
+    "demoBadge": "Utilisateur démo",
+    "signedInAs": "Connecté en tant que"
+  },
+  "search": {
+    "label": "Rechercher des produits",
+    "placeholder": "Essayez Nutella, Coca Cola, Oreo…",
+    "submit": "Rechercher",
+    "searching": "Recherche en cours…",
+    "recentTitle": "Recherches récentes",
+    "recentEmpty": "Vos recherches récentes apparaîtront ici.",
+    "resultsFor": "Résultats pour \"{query}\"",
+    "resultCount": "{count} produits trouvés",
+    "loadMore": "Charger plus",
+    "loadingMore": "Chargement…",
+    "minLength": "Veuillez saisir au moins 2 caractères."
+  },
+  "states": {
+    "loading": "Chargement…",
+    "emptyTitle": "Aucun produit trouvé",
+    "emptyBody": "Nous n'avons rien trouvé pour cette recherche. Essayez un autre produit ou une autre marque.",
+    "initialTitle": "Commencez par rechercher un produit",
+    "initialBody": "Recherchez par nom de produit, marque ou terme général pour voir les résultats.",
+    "errorTitle": "Une erreur est survenue",
+    "errorBody": "Veuillez réessayer.",
+    "retry": "Réessayer"
+  },
+  "product": {
+    "unknownName": "Nom du produit indisponible",
+    "unknownBrand": "Marque inconnue",
+    "noImage": "Aucune image disponible",
+    "viewNutrition": "Voir les valeurs nutritionnelles",
+    "backToResults": "Retour à la recherche",
+    "barcode": "Code-barres"
+  },
+  "nutrition": {
+    "title": "Valeurs nutritionnelles",
+    "per100g": "Pour 100 g / 100 ml",
+    "unavailable": "Les valeurs nutritionnelles ne sont pas disponibles pour ce produit.",
+    "notProvided": "Non renseigné",
+    "energy": "Énergie",
+    "fat": "Matières grasses",
+    "saturatedFat": "Acides gras saturés",
+    "carbohydrates": "Glucides",
+    "sugars": "Sucres",
+    "fiber": "Fibres",
+    "protein": "Protéines",
+    "salt": "Sel"
+  },
+  "subscription": {
+    "lockedTitle": "Les valeurs nutritionnelles sont réservées aux abonnés",
+    "lockedBody": "Abonnez-vous pour débloquer les valeurs nutritionnelles détaillées de chaque produit.",
+    "subscribe": "S'abonner",
+    "redirecting": "Redirection vers le paiement…",
+    "activeTitle": "Abonnement actif",
+    "renewsOn": "Renouvellement le {date}",
+    "checkoutError": "Impossible de démarrer le paiement. Veuillez réessayer.",
+    "checkoutCancelled": "Le paiement a été annulé. Vous n'avez pas été débité.",
+    "checkoutSuccess": "Merci ! Votre abonnement est en cours d'activation.",
+    "pendingActivation": "La confirmation peut prendre quelques secondes.",
+    "status": {
+      "past_due": "Votre paiement est en retard.",
+      "canceled": "Votre abonnement a été annulé.",
+      "unpaid": "Votre abonnement est impayé.",
+      "incomplete": "Votre abonnement n'est pas encore finalisé.",
+      "incomplete_expired": "Votre tentative d'abonnement a expiré.",
+      "paused": "Votre abonnement est en pause."
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Food Product Search",
+    "tagline": "Search packaged foods and explore their nutrition."
+  },
+  "nav": {
+    "language": "Language",
+    "selectLanguage": "Select language"
+  },
+  "user": {
+    "demoBadge": "Demo user",
+    "signedInAs": "Signed in as"
+  },
+  "search": {
+    "label": "Search products",
+    "placeholder": "Try Nutella, Coca Cola, Oreo…",
+    "submit": "Search",
+    "searching": "Searching…",
+    "recentTitle": "Recent searches",
+    "recentEmpty": "Your recent searches will appear here.",
+    "resultsFor": "Results for \"{query}\"",
+    "resultCount": "{count} products found",
+    "loadMore": "Load more",
+    "loadingMore": "Loading…",
+    "minLength": "Please enter at least 2 characters."
+  },
+  "states": {
+    "loading": "Loading…",
+    "emptyTitle": "No products found",
+    "emptyBody": "We could not find anything for that search. Try a different product or brand.",
+    "initialTitle": "Start by searching for a product",
+    "initialBody": "Search by product name, brand, or a general term to see results.",
+    "errorTitle": "Something went wrong",
+    "errorBody": "Please try again.",
+    "retry": "Try again"
+  },
+  "product": {
+    "unknownName": "Product name unavailable",
+    "unknownBrand": "Unknown brand",
+    "noImage": "No image available",
+    "viewNutrition": "View nutrition",
+    "backToResults": "Back to search",
+    "barcode": "Barcode"
+  },
+  "nutrition": {
+    "title": "Nutrition information",
+    "per100g": "Per 100 g / 100 ml",
+    "unavailable": "Nutrition information is not available for this product.",
+    "notProvided": "Not provided",
+    "energy": "Energy",
+    "fat": "Fat",
+    "saturatedFat": "Saturated fat",
+    "carbohydrates": "Carbohydrates",
+    "sugars": "Sugars",
+    "fiber": "Fibre",
+    "protein": "Protein",
+    "salt": "Salt"
+  },
+  "subscription": {
+    "lockedTitle": "Nutrition information is available to subscribers",
+    "lockedBody": "Subscribe to unlock detailed nutrition data for every product.",
+    "subscribe": "Subscribe",
+    "redirecting": "Redirecting to checkout…",
+    "activeTitle": "Active subscription",
+    "renewsOn": "Renews on {date}",
+    "checkoutError": "We could not start the checkout. Please try again.",
+    "checkoutCancelled": "Checkout was cancelled. You have not been charged.",
+    "checkoutSuccess": "Thank you! Your subscription is being activated.",
+    "pendingActivation": "This can take a few seconds to confirm.",
+    "status": {
+      "past_due": "Your payment is past due.",
+      "canceled": "Your subscription has been cancelled.",
+      "unpaid": "Your subscription is unpaid.",
+      "incomplete": "Your subscription is not yet complete.",
+      "incomplete_expired": "Your subscription attempt expired.",
+      "paused": "Your subscription is paused."
+    }
+  }
+}
